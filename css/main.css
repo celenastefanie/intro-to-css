@@ -1,0 +1,38 @@
+html{
+  background-color: #fc9;
+}
+
+h1, h2{
+  font-weight: normal;
+  font-size: 3rem;
+  font-style: normal;
+  text-decoration: ;
+  font-family: "Righteous", cursive;
+  line-height: 1.5;
+}
+
+ol{
+  list-style-type: none;
+  padding: 0;
+
+}
+
+li{
+  font-weight: bold;
+}
+
+.butt{
+  color: #903;
+}
+
+a{
+  color: purple;
+}
+
+a:hover{
+  color: white;
+}
+
+h1:hover{
+  color: white;
+}
